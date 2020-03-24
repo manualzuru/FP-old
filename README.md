@@ -1,4 +1,4 @@
-# FightPandemics Overvier
+# FightPandemics Overview
 
 Currently, there is no easy way to find all the information at the local and global level for the different people that are affected by the pandemic, the different projects that need volunteers, the FREE or discounted tools for builders, the grants available and other relevant information. That's why Fight Pandemics was born.
 
