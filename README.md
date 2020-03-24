@@ -13,3 +13,7 @@ Currently, there is no easy way to find all the information at the local and glo
 - I**ndividuals that want to contribute with other resources.**
     1. Global and local grants and funds by Governments, VCs, Angels and crowdunfing campaigns.
     2. Global and local tools and services (For FREE, or reduced in price)
+
+If you are interested please join our slack group:
+
+https://join.slack.com/t/fightpandemics/shared_invite/zt-d22gzk51-IMItXWfVQswn4YvHmKajnw
