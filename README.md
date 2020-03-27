@@ -17,3 +17,14 @@ Currently, there is no easy way to find all the information at the local and glo
     If you are interested please join our slack group:
 
 https://join.slack.com/t/fightpandemics/shared_invite/zt-d22gzk51-IMItXWfVQswn4YvHmKajnw
+
+
+# Gatsby + Netlify CMS Starter
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+
+**Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
+
+This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
+
+It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
