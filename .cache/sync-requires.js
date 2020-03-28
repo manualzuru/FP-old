@@ -10,7 +10,6 @@ exports.components = {
   "component---src-templates-blog-post-js": hot(preferDefault(require("/home/marcos/code/marcoscannabrava/FightPandemics/src/templates/blog-post.js"))),
   "component---src-templates-product-page-js": hot(preferDefault(require("/home/marcos/code/marcoscannabrava/FightPandemics/src/templates/product-page.js"))),
   "component---src-templates-tags-js": hot(preferDefault(require("/home/marcos/code/marcoscannabrava/FightPandemics/src/templates/tags.js"))),
-  "component---cache-dev-404-page-js": hot(preferDefault(require("/home/marcos/code/marcoscannabrava/FightPandemics/.cache/dev-404-page.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("/home/marcos/code/marcoscannabrava/FightPandemics/src/pages/404.js"))),
   "component---src-pages-blog-index-js": hot(preferDefault(require("/home/marcos/code/marcoscannabrava/FightPandemics/src/pages/blog/index.js"))),
   "component---src-pages-contact-examples-js": hot(preferDefault(require("/home/marcos/code/marcoscannabrava/FightPandemics/src/pages/contact/examples.js"))),
