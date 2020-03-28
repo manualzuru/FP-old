@@ -76,6 +76,11 @@ const Navbar = class extends React.Component {
                 Form Examples
               </Link> */}
             </div>
+            <div className="navbar-start has-text-centered">
+              <Link className="navbar-item" to="/signin">
+                Sign-In / Sign-Up
+              </Link>
+            </div>
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
