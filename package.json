@@ -5,6 +5,7 @@
   "private": true,
   "author": "FightPandemics COVID19 Global Hackathon Team",
   "dependencies": {
+    "auth0-js": "^9.13.0",
     "bulma": "^0.8.0",
     "gatsby": "^2.13.31",
     "gatsby-image": "^2.0.23",
