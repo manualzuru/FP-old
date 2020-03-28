@@ -1,19 +1,42 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+We're here to help people connect in times of need, find resources they need, people that can support them and inspiration to volunteer their time and skills to help others. If you're interested read on to see what you can do.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### For Investors
+Find active projects and startups focused on fighting COVID-19 and working on solutions to prevent any future pandemic.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Explore investment opportunities, connect with founders, and support projects that matter to you.👇
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+### For Institutions and Organizations
+Tough times require that we all gather around the mutual enemy which, for now, is COVID-19.😷
+
+Thus, we’re calling all companies, ventures, and official institutions who want to support makers creating solutions and fighting on the front line.
+
+If your company is offering 💰grants or 💵funding for startups and projects that aim to solve the problem of pandemics, list yourself on FightPandemics.com🔽
+
+This is a platform focused on gathering information and collective intelligence around the current COVID-19 outbreak, as well as, fighting all future pandemics.
+
+Put your offer in front of the most active community of makers, innovators, founders, and investors determined to make the world 🌎 a better place.
+
+
+### For Entrepreneurs
+📣Calling all entrepreneurs, makers, and creators who are taking the lead in a fight against COVID-19.
+
+If you’re looking for the most relevant tools, resources, and whitepapers that would help you build or expand your project head over to FightPandemics.com ⏩
+
+This is a platform that gathers curated resources on fighting COVID-19 and future pandemics for entrepreneurs to help you collect accurate information, data, and advice to make your next big thing happen.🌟
+
+
+### For Every Human Concerned
+If you’re looking for:
+⚖️Legal help as you’ve lost your job,
+🏘️How to help others in your community,
+🛠️What to do and how to act during the current pandemic,
+💊Health information on what to do if you’re located in an affected area,
+
+Join us.

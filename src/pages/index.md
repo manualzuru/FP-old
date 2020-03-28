@@ -2,43 +2,36 @@
 templateKey: index-page
 title: Fight Pandemics
 image: /img/banner2.jpg
-heading: Information and Cooperation
+heading: Connecting Resources and People
 subheading: Every organization and source of information under one roof
 mainpitch:
   title: Why We Are Here
   description: >
     Help communities prevent and respond quickly and effectively to crises
 description: >-
-  This is not the first nor last pandemic. Currently, the information about the pandemic is highly fragmented, especially at the local level. Whereas one can find global information and trackers, it is difficult to find information that is relevant to your community. Furthermore, it is difficult for organizations, funders, companies, volunteers and local leaders to coordinate responses. This puts humanity and local communities at risk. FightPandemics was born to make communities more resilient to pandemics by facilitating access to information and coordinated responses.
+  FightPandemics was born to make it easier for communities to access the information they need and coordinate responses in a more effective way. Specifically, this project aggregates collective intelligence before, during and after global and local crises such as public health emergencies
+
+  On FightPandemics.com, everyone can share projects that are working well in their community, take each other’s ideas to apply where they live, create new projects and exchange anything that can help the society to fight pandemics.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/pandemic.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Connecting people and projects. Link potential investors with potential entrepreneurs, ideas to reduce the negative impacts of pandemics around the world to communities, etc. We are going to help communities prevent and respond quickly and effectively to crises over connections.
+    - image: /img/contagious-illness.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        This is a space for connection and collaboration. If you have ideas, projects or potential solutions to share, you can share it on our website.
+
+        If you are looking for suggestions and inspiration to start acting in your own city, this is also a space for you. You can use our database to find potential ideas, partners, adapt it and apply.
+
+        Share your experience with us.
+    - image: /img/research.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Any idea that can have a positive effect on society can be helpful.
+
+        For example, a Whatsapp group that helps a neighborhood, or even a startup creating a new application to map solutions. It does not matter the size or the simplicity, any project can help and is going to be welcome on this aggregator!
+    - image: /img/hand-wash.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        This is not the first nor last pandemic. Currently, the information about the pandemic is highly fragmented, especially at the local level. Whereas one can find global information and trackers, it is difficult to find information that is relevant to your community. Furthermore, it is difficult for organizations, funders, companies, volunteers and local leaders to coordinate responses. This puts humanity and local communities at risk. FightPandemics was born to make communities more resilient to pandemics by facilitating access to information and coordinated responses.
   heading: What We Do
   description: >
     Help communities prevent and respond quickly and effectively to crises

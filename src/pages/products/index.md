@@ -1,14 +1,11 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Our Products - Coming Soon
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Below you'll see a bunch of lorem ipsum text about coffee. Please don't mind that.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We're here to help people connect in times of need, find resources they need, people that can support them and inspiration to volunteer their time and skills to help others. If you're interested read on to see what you can do.
 intro:
   blurbs:
     - image: /img/coffee.png
