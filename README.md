@@ -1,6 +1,6 @@
-#  FightPandemics Overview
+#  FP Overview
 
-Currently, there is no easy way to find all the information at the local and global level for the different people that are affected by the pandemic, the different projects that need volunteers, the FREE or discounted tools for builders, the grants available and other relevant information. That's why Fight Pandemics was born.
+Currently, there is no easy way to find all the information at the local and global level for the different people that are affected by the pandemic, the different projects that need volunteers, the FREE or discounted tools for builders, the grants available and other relevant information. That's why FP was born.
 
 ## **Personas**
 
@@ -15,8 +15,6 @@ Currently, there is no easy way to find all the information at the local and glo
     2. Global and local tools and services (For FREE, or reduced in price)
     
     If you are interested please join our slack group:
-
-https://join.slack.com/t/fightpandemics/shared_invite/zt-d22gzk51-IMItXWfVQswn4YvHmKajnw
 
 
 ### Image Assets In Use
