@@ -6,8 +6,6 @@ Currently, there is no easy way to find all the information at the local and glo
 
 If you are interested please join our slack group:
 
-https://join.slack.com/t/fightpandemics/shared_invite/zt-d22gzk51-IMItXWfVQswn4YvHmKajnw
-
 
 ### Image Assets In Use
 [Flaticon Virus Pack](https://www.flaticon.com/packs/virus-transmission-30)
